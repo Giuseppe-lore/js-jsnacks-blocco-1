@@ -18,5 +18,3 @@ for(i = 1; i <= 10; i++) {
     // Sommo i singoli numeri:
     sumNumbers += singleNumber;
 }
-
-console.log('somma', sumNumbers)
